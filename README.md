@@ -10,7 +10,7 @@
 
 
 ## Comenzando 🚀
-###### Este proyecto pertenece al curso de react practico de PlatziEste proyecto pertenece al curso de react practico de Platzi
+###### Este proyecto pertenece al curso de react practico de Platzi
 SPA React.js .El proyecto es un e-commerce que el usuario puede observar los productos puede agregar al carro y ver el total de las compras consta de diferentes vistas y páginas a las que se accede mediante rutas de React Router.
 
 
